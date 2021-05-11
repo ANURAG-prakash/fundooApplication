@@ -1,0 +1,9 @@
+C:\Users\praka\source\repos\NewFundoo\EmailServices\bin\Debug\netcoreapp3.1\EmailServices.deps.json
+C:\Users\praka\source\repos\NewFundoo\EmailServices\bin\Debug\netcoreapp3.1\EmailServices.dll
+C:\Users\praka\source\repos\NewFundoo\EmailServices\bin\Debug\netcoreapp3.1\EmailServices.pdb
+C:\Users\praka\source\repos\NewFundoo\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.csprojAssemblyReference.cache
+C:\Users\praka\source\repos\NewFundoo\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.AssemblyInfoInputs.cache
+C:\Users\praka\source\repos\NewFundoo\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.AssemblyInfo.cs
+C:\Users\praka\source\repos\NewFundoo\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.csproj.CoreCompileInputs.cache
+C:\Users\praka\source\repos\NewFundoo\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.dll
+C:\Users\praka\source\repos\NewFundoo\EmailServices\obj\Debug\netcoreapp3.1\EmailServices.pdb

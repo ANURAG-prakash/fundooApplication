@@ -1,0 +1,17 @@
+C:\Users\praka\source\repos\NewFundoo\BussinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.dll
+C:\Users\praka\source\repos\NewFundoo\BussinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.dll
+C:\Users\praka\source\repos\NewFundoo\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.csprojAssemblyReference.cache
+C:\Users\praka\source\repos\NewFundoo\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.AssemblyInfoInputs.cache
+C:\Users\praka\source\repos\NewFundoo\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.AssemblyInfo.cs
+C:\Users\praka\source\repos\NewFundoo\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.deps.json
+C:\Users\praka\source\repos\NewFundoo\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.runtimeconfig.json
+C:\Users\praka\source\repos\NewFundoo\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.runtimeconfig.dev.json
+C:\Users\praka\source\repos\NewFundoo\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.dll
+C:\Users\praka\source\repos\NewFundoo\BussinessLayer\bin\Debug\netcoreapp3.1\BussinessLayer.pdb
+C:\Users\praka\source\repos\NewFundoo\BussinessLayer\bin\Debug\netcoreapp3.1\RepositoryLayer.pdb
+C:\Users\praka\source\repos\NewFundoo\BussinessLayer\bin\Debug\netcoreapp3.1\CommonLayer.pdb
+C:\Users\praka\source\repos\NewFundoo\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\praka\source\repos\NewFundoo\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.csproj.CopyComplete
+C:\Users\praka\source\repos\NewFundoo\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.dll
+C:\Users\praka\source\repos\NewFundoo\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.pdb
+C:\Users\praka\source\repos\NewFundoo\BussinessLayer\obj\Debug\netcoreapp3.1\BussinessLayer.genruntimeconfig.cache
